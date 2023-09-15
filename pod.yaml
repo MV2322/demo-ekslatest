@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
         - name: hello
-          image: 865955034469.dkr.ecr.us-east-2.amazonaws.com/malar-repo:1.1
+          image: 695747170963.dkr.ecr.us-east-2.amazonaws.com/dumy-repo
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
